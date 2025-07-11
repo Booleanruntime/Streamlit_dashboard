@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 
 # Config
-API_BASE_URL = "https://ai-costops-backend.herokuapp.com"
+API_BASE_URL = "https://ai-costops-backend-aa085db78fb3.herokuapp.com/"
 
 st.set_page_config(page_title="AI CostOps Dashboard", layout="wide")
 
